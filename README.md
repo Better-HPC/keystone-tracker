@@ -1,12 +1,11 @@
 # Keystone Tracker
 
-Keystone Tracker is a central repository for tracking issues, bugs, feature requests, and improvements related to Keystone.
-This repository is used to keep track of:
+This repository provides central issue tracking for bugs, feature requests, and improvements to the Keystone project.
+It provides a common place for Keystone users and developers to manage:
 
 - 🐛 Bug Reports — Something isn't working as expected.
 - 💡 Feature Requests — Ideas for new functionality or improvements.
-- 🔧 Enhancements — Ways to improve existing features.
-- 📋 Known Issues — Problems currently being investigated or worked on.
+- ❓ Questions — General questions to the project maintainers.
   
 ## Before Opening an Issue
 
