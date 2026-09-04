@@ -13,9 +13,9 @@ type: Bug
 Provide a clear and concise description of the issue you are experiencing.
 If applicable, add screenshots to help explain your problem.
 
-**To Reproduce**
+**Steps To Reproduce**
 
-Steps to reproduce the behavior:
+Outline steps to reproduce the behavior:
 
 1. Go to '...'
 2. Click on '....'
