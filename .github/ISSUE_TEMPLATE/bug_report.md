@@ -4,6 +4,7 @@ about: Report a bug or issue with the software
 title: ''
 labels: ''
 assignees: ''
+type: Bug
 
 ---
 
